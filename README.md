@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohit-546
-- 👀 I’m interested in Coding like javascript python.
+- 👀 I’m interested in Coding like javascript .
 - 🌱 I’m currently learning MERN Full Stack web Devlopment
 - 💞️ Code, Coffe, Creativity
 - 📫 How to reach me ...
